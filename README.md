@@ -1,2 +1,2 @@
 # Test-git
-# This is Amele, Working on 'amele' branch.
+# This is Amele, Working on 'paulos' branch.
